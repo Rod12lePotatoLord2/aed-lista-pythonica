@@ -6,3 +6,4 @@ def hello_world() -> str:
         str: "Hello, World!"
     """
     return "Hello, World!"
+ 
